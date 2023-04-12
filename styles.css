@@ -55,6 +55,7 @@ body {
     padding: 20px 10%;
   }
   main{
+    padding-top: 50px;
   display: flex;
   flex-direction: column;
   }
